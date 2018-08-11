@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_java">java</string>
+    <string name="title_kotlin">kotlin</string>
+</resources>
